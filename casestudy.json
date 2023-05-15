@@ -1,6 +1,6 @@
 [{
 		"ID" : "mki5vyhs",
-		"Brand" : "Samsung",
+		"BrandName" : "Samsung",
 		"Timer" : "",
 		"ProductName" : "27 cu.ft. 36 French Door Refrigerator with Family Hub",
 		"GraphicName" : "",
@@ -12,7 +12,7 @@
 	},
 	{
 		"ID" : "y643e4m8",
-		"Brand" : "Samsung",
+		"BrandName" : "Samsung",
 		"Timer" : "",
 		"ProductName" : "Samsung 58 4K UHD HDR LED Tizen Smart TV",
 		"GraphicName" : "",
@@ -24,7 +24,7 @@
 	},
 	{
 		"ID" : "dzofwmwz",
-		"Brand" : "Samsung",
+		"BrandName" : "Samsung",
 		"Timer" : "",
 		"ProductName" : "Samsung Galaxy Watch5 (GPS) 40mm Smartwatch",
 		"GraphicName" : "",
@@ -36,7 +36,7 @@
 	},
 	{
 		"ID" : "riyegkz6",
-		"Brand" : "Samsung",
+		"BrandName" : "Samsung",
 		"Timer" : "",
 		"ProductName" : "Samsung The Freestyle 1080p LED Portable Home Theatre Projector",
 		"GraphicName" : "",
@@ -48,7 +48,7 @@
 	},
 	{
 		"ID" : "d9vb70lf",
-		"Brand" : "Samsung",
+		"BrandName" : "Samsung",
 		"Timer" : "",
 		"ProductName" : "Samsung Galaxy Tab S6 Lite 10.4 128GB Android 12 Tablet",
 		"GraphicName" : "",
@@ -60,7 +60,7 @@
 	},
 	{
 		"ID" : "2wyysv00",
-		"Brand" : "Microsoft",
+		"BrandName" : "Microsoft",
 		"Timer" : "",
 		"ProductName" : "Microsoft Surface Laptop 5 Touchscreen 15 - Platinum",
 		"GraphicName" : "",
@@ -72,7 +72,7 @@
 	},
 	{
 		"ID" : "owftkt5h",
-		"Brand" : "Microsoft",
+		"BrandName" : "Microsoft",
 		"Timer" : "",
 		"ProductName" : "Microsoft Surface 8-in-1 Thunderbolt 4 Dock",
 		"GraphicName" : "",
@@ -84,7 +84,7 @@
 	},
 	{
 		"ID" : "vl5ipsbo",
-		"Brand" : "Microsoft",
+		"BrandName" : "Microsoft",
 		"Timer" : "",
 		"ProductName" : "Microsoft Designer Compact Bluetooth Keyboard",
 		"GraphicName" : "",
@@ -96,7 +96,7 @@
 	},
 	{
 		"ID" : "lx43k78l",
-		"Brand" : "Microsoft",
+		"BrandName" : "Microsoft",
 		"Timer" : "",
 		"ProductName" : "Microsoft Modern Wireless Headset",
 		"GraphicName" : "",
@@ -108,7 +108,7 @@
 	},
 	{
 		"ID" : "0tdlc0lh",
-		"Brand" : "Sony",
+		"BrandName" : "Sony",
 		"Timer" : "",
 		"ProductName" : "Sony Alpha a7 II Full-Frame Mirrorless Camera",
 		"GraphicName" : "",
@@ -120,7 +120,7 @@
 	},
 	{
 		"ID" : "fleiy2iq",
-		"Brand" : "Sony",
+		"BrandName" : "Sony",
 		"Timer" : "",
 		"ProductName" : "Sony X75K 65 4K UHD HDR LED Smart Google TV",
 		"GraphicName" : "",
@@ -132,7 +132,7 @@
 	},
 	{
 		"ID" : "jt441q4w",
-		"Brand" : "Sony",
+		"BrandName" : "Sony",
 		"Timer" : "",
 		"ProductName" : "Sony SS-CS5 100-Watt Bookshelf Speaker",
 		"GraphicName" : "",
@@ -144,7 +144,7 @@
 	},
 	{
 		"ID" : "dt29rqv2",
-		"Brand" : "Sony",
+		"BrandName" : "Sony",
 		"Timer" : "",
 		"ProductName" : "Sony STR-DH190 2.0 Bluetooth, A/B Speaker, Stereo Receiver",
 		"GraphicName" : "",
@@ -156,7 +156,7 @@
 	},
 	{
 		"ID" : "2f5ftcm5",
-		"Brand" : "Sony",
+		"BrandName" : "Sony",
 		"Timer" : "",
 		"ProductName" : "Sony 1080p Upconverting DVD Player",
 		"GraphicName" : "",
